@@ -12,8 +12,10 @@ Before you begin, make sure you have the following prerequisites installed:
 - PyQt5 library
 - MySQL database server
 
-You can install PyQt5 using pip:
+####You can install PyQt5 using pip:
 
 ```bash
 pip install PyQt5
+
+## Getting Started
 
